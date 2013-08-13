@@ -1,0 +1,9 @@
+1. create branch
+2. do work
+3. commit branch
+4. create stash
+5. switch to another branch
+6. do work
+7. commit
+8. switch back to branch
+9. pop stash
