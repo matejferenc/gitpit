@@ -10,3 +10,4 @@
 10. add task, but use branch 'tasks'!
 11. commit new tasks in 'master' branch
 12. cherrypick commits to 'tasks' branch
+13. reset 'master' branch back
