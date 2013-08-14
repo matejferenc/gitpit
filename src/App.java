@@ -10,5 +10,9 @@ class App {
   private int count() {
     return 0;
   }
+  
+  private String getName() {
+    return "";
+  }
 
 }
