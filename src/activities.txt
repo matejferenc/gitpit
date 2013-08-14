@@ -1,3 +1,7 @@
 14:30 cloning gitpit
 14:50 cloning second gitpit
 15:50 stashing
+---------
+14.8.2013
+---------
+10:50 reset a uprava commitu - nove tasky som nechcel commitovat v master
