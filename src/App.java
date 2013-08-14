@@ -8,7 +8,7 @@ class App {
   }
   
   private int count() {
-    return 1;
+    return 2;
   }
   
   private String getName() {
