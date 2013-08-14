@@ -8,3 +8,5 @@
 8. switch back to branch
 9. pop stash
 10. add task, but use branch 'tasks'!
+11. commit new tasks in 'master' branch
+12. cherrypick commits to 'tasks' branch
