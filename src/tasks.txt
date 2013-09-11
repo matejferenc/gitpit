@@ -12,3 +12,4 @@
 12. cherrypick commits to 'tasks' branch
 13. reset 'master' branch back
 14. cause a conflict
+15. install ungit
