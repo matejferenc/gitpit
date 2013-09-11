@@ -13,3 +13,4 @@
 13. reset 'master' branch back
 14. cause a conflict
 15. install ungit
+16. commit using ungit
